@@ -1,0 +1,4 @@
+﻿  question2.cpp
+C:\Users\39551\Desktop\定位项目\solution2\question2.cpp(6,24): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+C:\Users\39551\Desktop\定位项目\solution2\question2.cpp(12,25): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  solution2.vcxproj -> C:\Users\39551\Desktop\定位项目\solution2\x64\Debug\solution2.exe
